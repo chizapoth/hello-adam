@@ -1,9 +1,10 @@
-# Resources
+---
+title: "Resources"
+---
 
-This page provides a quick glossary for some links that might be useful. 
+This page provides a quick glossary for some links that might be useful.
 
-### some text
+### Useful Links
 
 - [teal.gallery apps](https://insightsengineering.github.io/teal.gallery/)
 - [teal.gallery source code](https://github.com/insightsengineering/teal.gallery)
-

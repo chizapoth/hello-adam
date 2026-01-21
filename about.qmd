@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+## Who is this blog for?
+
+The main audience for this blog are those interested in ADaM and related tools.
+
+## What will you learn?
+
+* Topics around ADaM
+* Practical examples and tutorials
+
+## Get in touch
+
+Feel free to reach out with questions or suggestions!

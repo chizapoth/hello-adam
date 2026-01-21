@@ -1,28 +1,37 @@
 # https://github.com/quarto-dev/quarto-cli/tree/main/src/resources/schema
 project:
-  type: book
+  type: website
   output-dir: docs
   preview:
-    # port: 4200
     browser: true
     watch-inputs: true
     navigate: true
     timeout: 300
 
+website:
+  title: "Hello, ADaM"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resources.qmd
+        text: Resources
+    right:
+      - icon: github
+        href: https://github.com/chizapoth/hello-adam
+  open-graph: true
+  search:
+    type: overlay
+    copy-button: true
+
 format:
   html:
     grid:
-      body-width: 1000px   # Example: to make the main content wider
-    #   gutter-width: 1.2rem # The key parameter to reduce space between sidebar and content
+      body-width: 1000px
     css: styles.css
-    font-family:
-      - 'Fira Sans'
-      - sans-serif
-    code-font-family:
-      - 'Fira Code'
-      - monospace
     toc: true
-    search: true
     theme:
       light:
         - flatly
@@ -30,49 +39,14 @@ format:
         - darkly
     anchor-sections: true
     smooth-scroll: true
-    number-sections: false
-    lang: en-US
-    page-layout: full
 
 execute:
   freeze: false
   cache: false
   code-line-numbers: true
   eval: true
-  knitr:
-    opts_knit:
-      echo: true
 
 editor:
   mode: source
 
 highlight-style: github
-
-book:
-  title: Hello ADaM
-  open-graph: true
-  search:
-    type: overlay
-    copy-button: true
-  sidebar:
-    id: sidebar
-    style: floating
-    collapse-level: 1
-    border: true
-  # cover-image: img/teal.png
-  page-navigation: true
-  reader-mode: true
-  # repo-url: https://code.roche.com/nest/docs/teal.mdr.handbook
-  repo-branch: main
-  chapters:
-    - index.qmd
-
-    - text: "---"
-
-    - part: teal for MDR
-      chapters:
-        - 1.qmd
-
-      
-    - x_resources.qmd
-    

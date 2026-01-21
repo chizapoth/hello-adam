@@ -4,20 +4,14 @@
     "href": "index.html",
     "title": "Hello ADaM",
     "section": "",
-    "text": "Welcome\nSOME TEXT",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
-    ]
+    "text": "Welcome to Hello ADaM! This blog explores topics around ADaM and related tools.\nBrowse the latest posts below, or use the navigation to explore resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Post\n\n\n\nteal\n\nMDR\n\ngetting-started\n\n\n\n\n\n\n\n\n\nJan 21, 2026\n\n\nchizapoth\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#structure-of-the-handbook",
     "href": "index.html#structure-of-the-handbook",
-    "title": "Hello ADaM",
-    "section": "Structure of the handbook",
-    "text": "Structure of the handbook\nThis handbook is divided in the following sections:\nLet’s get started!",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
-    ]
+    "title": "Welcome",
+    "section": "",
+    "text": "This handbook is divided in the following sections:\nLet’s get started!"
   },
   {
     "objectID": "1.html",
@@ -39,5 +33,61 @@
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
     ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page provides a quick glossary for some links that might be useful.\n\nUseful Links\n\nteal.gallery apps\nteal.gallery source code"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The main audience for this blog are those interested in ADaM and related tools."
+  },
+  {
+    "objectID": "about.html#who-is-this-blog-for",
+    "href": "about.html#who-is-this-blog-for",
+    "title": "About",
+    "section": "",
+    "text": "The main audience for this blog are those interested in ADaM and related tools."
+  },
+  {
+    "objectID": "about.html#what-will-you-learn",
+    "href": "about.html#what-will-you-learn",
+    "title": "About",
+    "section": "What will you learn?",
+    "text": "What will you learn?\n\nTopics around ADaM\nPractical examples and tutorials"
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "Get in touch",
+    "text": "Get in touch\nFeel free to reach out with questions or suggestions!"
+  },
+  {
+    "objectID": "posts/getting-started/index.html",
+    "href": "posts/getting-started/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Initial text for getting started with teal for MDR."
+  },
+  {
+    "objectID": "posts/getting-started/index.html#overview",
+    "href": "posts/getting-started/index.html#overview",
+    "title": "First Post",
+    "section": "Overview",
+    "text": "Overview\nThis post covers the basics of working with teal for MDR."
+  },
+  {
+    "objectID": "posts/getting-started/index.html#next-steps",
+    "href": "posts/getting-started/index.html#next-steps",
+    "title": "First Post",
+    "section": "Next Steps",
+    "text": "Next Steps\nStay tuned for more content!"
   }
 ]

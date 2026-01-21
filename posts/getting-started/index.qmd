@@ -1,0 +1,17 @@
+---
+title: "First Post"
+author: "chizapoth"
+date: "2026-01-21"
+categories: [teal, MDR, getting-started]
+image: ""
+---
+
+Initial text for getting started with teal for MDR.
+
+## Overview
+
+This post covers the basics of working with teal for MDR.
+
+## Next Steps
+
+Stay tuned for more content!

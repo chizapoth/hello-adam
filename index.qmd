@@ -1,19 +1,16 @@
-# Welcome
+---
+title: "Hello ADaM"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
 
+Welcome to **Hello ADaM**! This blog explores topics around ADaM and related tools.
 
-SOME TEXT
-
-
-### Who should read this handbook?
-
-The main audience for this handbook are SOME TEXT
-
-### What will you learn?
-
-* WHAT WILL YOU LEARN
-
-## Structure of the handbook
-
-This handbook is divided in the following sections:
-
-Let's get started!
+Browse the latest posts below, or use the navigation to explore resources.
