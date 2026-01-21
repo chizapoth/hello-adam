@@ -1,0 +1,19 @@
+# Welcome
+
+
+SOME TEXT
+
+
+### Who should read this handbook?
+
+The main audience for this handbook are SOME TEXT
+
+### What will you learn?
+
+* WHAT WILL YOU LEARN
+
+## Structure of the handbook
+
+This handbook is divided in the following sections:
+
+Let's get started!

@@ -1,0 +1,43 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello ADaM",
+    "section": "",
+    "text": "Welcome\nSOME TEXT",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#structure-of-the-handbook",
+    "href": "index.html#structure-of-the-handbook",
+    "title": "Hello ADaM",
+    "section": "Structure of the handbook",
+    "text": "Structure of the handbook\nThis handbook is divided in the following sections:\nLet’s get started!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "1.html",
+    "href": "1.html",
+    "title": "something",
+    "section": "",
+    "text": "initial text",
+    "crumbs": [
+      "teal for MDR",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>something</span>"
+    ]
+  },
+  {
+    "objectID": "x_resources.html",
+    "href": "x_resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page provides a quick glossary for some links that might be useful.\n\nsome text\n\nteal.gallery apps\nteal.gallery source code",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  }
+]
